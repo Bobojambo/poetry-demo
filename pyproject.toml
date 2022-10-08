@@ -10,6 +10,8 @@ packages = [{include = "poetry_demo"}]
 python = "^3.9"
 pendulum = "^2.1.2"
 pandas = "^1.5.0"
+scikit-learn = "^1.1.2"
+mlflow = "^1.29.0"
 
 
 [build-system]
