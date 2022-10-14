@@ -12,3 +12,9 @@ poetry env info --path
 `poetry shell`
 ## exit shell
 `exit`
+
+## Information about poetry environment installation and upate
+https://python-poetry.org/docs/basic-usage/
+
+## Project uses mlops 
+https://www.mlflow.org/docs/latest/quickstart.html
