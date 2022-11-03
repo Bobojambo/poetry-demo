@@ -1,0 +1,14 @@
+name: time-series
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - fbprophet
+  - pip
+  - pip:
+      - scikit-learn==0.23.2
+      - mlflow>=1.0
+
+      
