@@ -18,6 +18,8 @@ numpy = "^1.23.4"
 pre-commit = "^2.20.0"
 black = "^22.10.0"
 isort = "^5.10.1"
+flake8 = "^5.0.4"
+autoflake = "^1.7.7"
 
 
 [build-system]
